@@ -3,14 +3,15 @@
           {
             "userId": 1,
             "id": 1,
-            "title": "Barcelona",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshdz91JVLkdmDdKTwuote3dL5WRae7fsCSN_2y0CJ_5uNTQ2OKfNDzpgd4no_d2g_YT8&usqp=CAU"
+            "title": "Real Madrid",
+            "img": "https://i.pinimg.com/736x/13/0c/6b/130c6b2d07c9407f2f72b053439fc617.jpg"
+            
           },
           {
             "userId": 1,
             "id": 2,
-            "title": "Real Madrid",
-            "img": "https://i.pinimg.com/736x/bb/8f/99/bb8f9956d1892f6ac5fd5c6650fbc218.jpg"
+            "title": "Barcelona",
+            "img": "https://static.vecteezy.com/system/resources/previews/008/252/907/non_2x/fc-barcelona-logo-football-club-barcelona-crest-emblem-on-a-blaugrana-background-free-vector.jpg"
           },
           {
             "userId": 1,
@@ -22,7 +23,7 @@
             "userId": 1,
             "id": 4,
             "title": "Chelsea",
-            "img": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk88qrwn5f1j8f"
+            "img": "https://static.vecteezy.com/system/resources/thumbnails/026/135/381/small/chelsea-club-logo-white-symbol-premier-league-football-abstract-design-illustration-with-black-background-free-vector.jpg"
           },
           {
             "userId": 1,
@@ -34,43 +35,142 @@
             "userId": 1,
             "id": 6,
             "title": "Bayern Munich",
-            "img": "https://seeklogo.com/images/B/bayern-munich-logo-153D031849-seeklogo.com.png"
+            "img": "https://i.pinimg.com/236x/53/cf/32/53cf32603d1171d4781a7d9d3c42063c.jpg"
           },
           {
             "userId": 1,
             "id": 7,
-            "title": "magnam facilis autem",
-            "img": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+            "title": "Juventus",
+            "img": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2017/01/18/5fa3c4635d3d5.jpeg"
           },
           {
             "userId": 1,
             "id": 8,
             "title": "Borusia Dortmund",
-            "img": "https://cdnb.20m.es/sites/30/2021/10/Borussia_Dortmund_logo-ok.jpg"
+            "img": "https://st2.depositphotos.com/2124563/9997/i/450/depositphotos_99974636-stock-photo-flag-football-club-borussia-dortmund.jpg"
           },
           {
             "userId": 1,
             "id": 9,
             "title": "Milan",
-            "img": "https://cdn5.dibujos.net/dibujos/pintados/201837/escudo-del-ac-milan-deportes-escudos-de-futbol-11451060.jpg"
+            "img": "https://cdn5.dibujos.net/dibujos/pintados/201830/escudo-del-ac-milan-deportes-escudos-de-futbol-11418496.jpg"
           },
           {
             "userId": 1,
             "id": 10,
             "title": "Inter",
-            "img": "https://cdnb.20m.es/sites/30/2023/05/FC_Internazionale_Milano_2021ok.jpg"
+            "img": "https://graffica.info/wp-content/uploads/2021/04/rivoluzione-inter-cambia-logo-e-nome-i-dettagli-via-pirelli-per-lo-sponsor-un-nome-in-pole-1-1024x640.jpeg"
           },
           {
             "userId": 2,
             "id": 11,
-            "title": "Atlético de Madrid",
-            "img": "https://yt3.googleusercontent.com/ytc/AIf8zZQjG935PpWH3wSq90Wg_MQrjttfM69I7iVCjTMvnAc=s900-c-k-c0x00ffffff-no-rj"
+            "title": "Atletico de Madrid",
+            "img": "https://img.planetafobal.com/2016/12/atletico-de-madrid-escudo-nuevo-2017-g.jpg"
           },
           {
             "userId": 2,
             "id": 12,
             "title": "Manchester United",
-            "img": "https://m.media-amazon.com/images/I/511kPPH8M7L._AC_UF894,1000_QL80_.jpg"
+            "img": "https://tradersummit.net/wp-content/uploads/2023/06/969536.jpg"
+          },
+
+          {
+          "userId": 1,
+          "id": 13,
+          "title": "Boca Jr.",
+          "img": "https://cdn5.dibujos.net/dibujos/pintados/202012/escudo-del-boca-juniors-deportes-escudos-de-futbol-11727698.jpg"
+          
+          },
+          {
+            "userId": 1,
+            "id": 14,
+            "title": "River Plate",
+            "img": "https://i.pinimg.com/736x/a6/e6/6b/a6e66b58e0df008c1cd2f1ffea2cb7b8.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 15,
+            "title": "Once Caldas",
+            "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cd/77/cf/cd77cf41-ff7c-283a-0bf2-35534e8bbb53/source/512x512bb.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 16,
+            "title": "Inter Miami",
+            "img": "https://i.pinimg.com/originals/99/6d/da/996ddae57797eb06df1cc306bf08bfc3.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 17,
+            "title": "Al Nassr",
+            "img": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fapuntesderabona.com%2Fwp-content%2Fuploads%2F2020%2F03%2FLIVERPOOL-1.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 18,
+            "title": "Valencia",
+            "img": "https://cdn5.dibujos.net/dibujos/pintados/202053/escudo-del-valencia-c.-f.-deportes-escudos-de-futbol-12126401.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 19,
+            "title": "Arsenal",
+            "img": "https://i.pinimg.com/originals/cc/ba/da/ccbadaa630e55ef84d5ee706bce97c65.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 20,
+            "title": "Tottenham",
+            "img": "https://i.pinimg.com/736x/f7/9d/fc/f79dfce207d08d43305d32974ea60bd1.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 21,
+            "title": "Unión Magdalena",
+            "img": "https://pbs.twimg.com/media/EIFcZL0XYAA0SBC.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 22,
+            "title": "Napoli",
+            "img": "https://www.futbox.com/img/v1/b9a/cd5/549/e3e/ee08ae6c4b0fca3267e5.png"
+          },
+          {
+            "userId": 2,
+            "id": 23,
+            "title": "Nacional",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmR0NxIGaledXlpKEr9GFCzh0TpKSFL7IJ-FbeHQHSLwow5v2_g8MhwIm9zXvYyY37Dk&usqp=CAU"
+          },
+          {
+            "userId": 2,
+            "id": 24,
+            "title": "America",
+            "img": "https://www.eltiempo.com/files/article_vertical_content_new/files/crop/uploads/2023/07/06/64a71aba7e182.r_1688679976077.642-0-1120-720.png"
+          },
+
+          {
+            "userId": 1,
+            "id": 25,
+            "title": "Racing",
+            "img": "https://i.pinimg.com/564x/03/0e/b5/030eb5599a51c7f3166e4a0ae0edadbb.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 26,
+            "title": "Independiente",
+            "img": "https://i.pinimg.com/736x/76/1d/21/761d218d7770440910948ccea2860651.jpg"
+          },
+          {
+            "userId": 2,
+            "id": 27,
+            "title": "Flamengo",
+            "img": "https://img.planetafobal.com/2018/04/escudo-flamengo-anterior.jpg"
+          },
+          {
+            "userId": 2,
+            "id": 28,
+            "title": "Palmeiras",
+            "img": "https://e1.pxfuel.com/desktop-wallpaper/436/305/desktop-wallpaper-escudo-do-verdao-palmeiras-palmeiras-mancha-verde.jpg"
           }
         ]
 }
