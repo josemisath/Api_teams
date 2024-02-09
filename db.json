@@ -1,0 +1,76 @@
+{
+"teams":[
+          {
+            "userId": 1,
+            "id": 1,
+            "title": "Barcelona",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshdz91JVLkdmDdKTwuote3dL5WRae7fsCSN_2y0CJ_5uNTQ2OKfNDzpgd4no_d2g_YT8&usqp=CAU"
+          },
+          {
+            "userId": 1,
+            "id": 2,
+            "title": "Real Madrid",
+            "img": "https://i.pinimg.com/736x/bb/8f/99/bb8f9956d1892f6ac5fd5c6650fbc218.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 3,
+            "title": "Manchester City",
+            "img": "https://img.planetafobal.com/2015/12/manchester-city-escudo-2015.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 4,
+            "title": "Chelsea",
+            "img": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk88qrwn5f1j8f"
+          },
+          {
+            "userId": 1,
+            "id": 5,
+            "title": "Liverpool",
+            "img": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fapuntesderabona.com%2Fwp-content%2Fuploads%2F2020%2F03%2FLIVERPOOL-1.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 6,
+            "title": "Bayern Munich",
+            "img": "https://seeklogo.com/images/B/bayern-munich-logo-153D031849-seeklogo.com.png"
+          },
+          {
+            "userId": 1,
+            "id": 7,
+            "title": "magnam facilis autem",
+            "img": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+          },
+          {
+            "userId": 1,
+            "id": 8,
+            "title": "Borusia Dortmund",
+            "img": "https://cdnb.20m.es/sites/30/2021/10/Borussia_Dortmund_logo-ok.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 9,
+            "title": "Milan",
+            "img": "https://cdn5.dibujos.net/dibujos/pintados/201837/escudo-del-ac-milan-deportes-escudos-de-futbol-11451060.jpg"
+          },
+          {
+            "userId": 1,
+            "id": 10,
+            "title": "Inter",
+            "img": "https://cdnb.20m.es/sites/30/2023/05/FC_Internazionale_Milano_2021ok.jpg"
+          },
+          {
+            "userId": 2,
+            "id": 11,
+            "title": "Atlético de Madrid",
+            "img": "https://yt3.googleusercontent.com/ytc/AIf8zZQjG935PpWH3wSq90Wg_MQrjttfM69I7iVCjTMvnAc=s900-c-k-c0x00ffffff-no-rj"
+          },
+          {
+            "userId": 2,
+            "id": 12,
+            "title": "Manchester United",
+            "img": "https://m.media-amazon.com/images/I/511kPPH8M7L._AC_UF894,1000_QL80_.jpg"
+          }
+        ]
+}
